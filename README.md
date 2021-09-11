@@ -34,3 +34,5 @@ WHEN I refresh the page
 THEN the saved events persist
 # A Link to the Website
 https://andrewjosephparker.github.io/day-planner/
+# Screenshot
+![2021-09-10 (2)](https://user-images.githubusercontent.com/83850651/132936098-a4cd7292-9e20-4f76-a6ea-cd7f9c6f9b2e.png)
